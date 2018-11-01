@@ -1,3 +1,3 @@
 ﻿# hello-github
 備忘録やメモ
-and I love madomagi
+11/1:忘れないように日々git-bashを使ってみる（add→commit -m→push）
