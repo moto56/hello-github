@@ -1,4 +1,4 @@
-﻿# hello-github
+﻿# hello-github（オープンソース　私の考えも）
 備忘録やメモ
 11/1:忘れないように日々git-bashを使ってみる（add→commit -m→push）
 
